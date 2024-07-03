@@ -1,3 +1,6 @@
 Susamay here
 writing few random
 lines to test
+
+#red -> not staged
+#green -> staged (ready to commit)
