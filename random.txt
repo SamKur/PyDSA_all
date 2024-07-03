@@ -4,3 +4,6 @@ lines to test
 
 #red -> not staged
 #green -> staged (ready to commit)
+
+Hi there.. new brnch temp1 changes
+
